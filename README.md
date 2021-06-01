@@ -1,1 +1,2 @@
 # tableau_super_maerket
+python3 venvでディレクトリ作成しpipでrequirements.txtを元に環境構築して実行
